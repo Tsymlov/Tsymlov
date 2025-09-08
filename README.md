@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I'm Alexey Tsymlov
 
-<!--
-**Tsymlov/Tsymlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer passionate about SwiftUI and modern app architecture. Creating productivity tools and developer utilities. Focused on clean, maintainable code and great user experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** Swift, Objective-C
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0061FF?style=for-the-badge&logo=swift&logoColor=white)
+- **Frameworks:** SwiftUI, UIKit, Combine etc.
+- **Architecture:** UDF, MVVM, Clean Architecture
+- **Tools:** Xcode, Git, SPM, CocoaPods etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Pomodoro Timer](https://github.com/Tsymlov/Pomodoro-Timer) - SwiftUI app with UDF architecture
+- [Generate Localizations](https://github.com/Tsymlov/generate-localizations) - Automation tool for iOS/Android localization
+
+## Connect with me
+- alexey.tsymlov@gmail.com
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsymlov&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsymlov&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=Tsymlov)
