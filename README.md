@@ -16,8 +16,3 @@ iOS Developer passionate about SwiftUI and modern app architecture. Creating pro
 
 ## Connect with me
 - alexey.tsymlov@gmail.com
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsymlov&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsymlov&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=Tsymlov)
