@@ -1,18 +1,39 @@
-# Hi there! I'm Alexey Tsymlov
+# Алексей Цымлов
 
-iOS Developer passionate about SwiftUI and modern app architecture. Creating productivity tools and developer utilities. Focused on clean, maintainable code and great user experiences.
+**Строю компании, управляемые искусственным интеллектом, - и учу этому руководителей.**
 
-## Tech Stack
-- **Languages:** Swift, Objective-C
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0061FF?style=for-the-badge&logo=swift&logoColor=white)
-- **Frameworks:** SwiftUI, UIKit, Combine etc.
-- **Architecture:** UDF, MVVM, Clean Architecture
-- **Tools:** Xcode, Git, SPM, CocoaPods etc.
+Основатель и генеральный директор ООО «СИНТРОПИК» (Тула · Калуга). В коммерческой разработке с 2006 года.
 
-## Featured Projects
-- [Pomodoro Timer](https://github.com/Tsymlov/Pomodoro-Timer) - SwiftUI app with UDF architecture
-- [Generate Localizations](https://github.com/Tsymlov/generate-localizations) - Automation tool for iOS/Android localization
+## Чем занимаюсь сейчас
 
-## Connect with me
-- alexey.tsymlov@gmail.com
+ИИ не как чат-бот на сайте, а как управляющий контур компании: заявки, документы, планирование, расчёты, аналитика.
+
+- **Производство** - разбор заявок из почты, сборка документов из техпаспортов, планирование смен, производственная аналитика.
+- **Агро** - ассистент руководителя и фотодиагностика в мессенджере.
+- **Банки** - расчёт системы мотивации филиала: вместо нескольких дней в таблицах - диалог с системой и готовая выгрузка.
+- **Агентная разработка** - приложение банковского уровня за дни вместо полугода: постановка, архитектура, код, тесты, сборка. Человек ставит задачу и отвечает за результат.
+
+Своя компания - первый полигон: CRM, еженедельный разбор задач, подготовка договоров и счетов идут через ИИ-сессии, ролей в ней больше, чем людей.
+
+## Преподавание
+
+Преподаю в Калужском государственном университете им. К. Э. Циолковского и Тульском государственном университете. Читал правовые аспекты использования искусственного интеллекта в НИТУ МИСИС и Международном юридическом институте, мобильную разработку - в Академии АйТи и центре «Специалист» при МГТУ им. Н. Э. Баумана.
+
+Веду авторский курс «ИИ для предпринимателей и руководителей»: участники работают на своих задачах и уходят с готовым результатом. В 2026 году прошло три потока, стартует четвёртый.
+
+## До СИНТРОПИКа
+
+**Сбербанк** - руководитель направления в департаменте экспериментальных систем машинного обучения.
+
+**Мобильная разработка** - десятки выпущенных приложений, среди них мобильные продукты Сбера, Kaspersky, Яндекса и Т-Банка.
+
+## Про этот профиль
+
+Здесь в основном iOS-проекты и учебные репозитории: рабочий код компании закрыт, а то, что мы делаем сейчас, живёт у клиентов в контуре. Из публичного - [Pomodoro Timer](https://github.com/Tsymlov/Pomodoro-Timer) на SwiftUI и [generate-localizations](https://github.com/Tsymlov/generate-localizations) для локализации мобильных приложений.
+
+## Связаться
+
+- **О руководителе:** https://syntropic.ru/rukovoditel.html
+- **Компания:** https://syntropic.ru
+- **Почта:** ceo@syntropic.ru
+- **Телеграм-канал:** https://t.me/syntropic_ru
